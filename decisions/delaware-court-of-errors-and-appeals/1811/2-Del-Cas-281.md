@@ -1,0 +1,31 @@
+---
+court: "Delaware Court of Errors and Appeals"
+decided: "1811-08"
+citations: ["2 Del. Cas. 281", "Ridgely’s Notebook I, 10"]
+reporter: "del-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DAVID NIVIN, defendant below, v. STATE, plaintiff below, for the Use of JOHN FIELD et al."]
+source_url: "https://static.case.law/del-cas/2/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 503208
+---
+
+# Nivin v. State
+
+## Majority (Per Curiam. The Chancellor)
+
+Per Curiam.
+The deed was read in evidence. It was demurred to, with other evidence. It is a part of the defendant (in error) his case. And it is the business of the plaintiff in error to produce the whole record which he professes to bring up. The Court postpones the cause until Tuesday next to give the plaintiff an opportunity to produce the deed; and if the plaintiff shall not then have it here, the writ of error will be stricken off.
+The deed was produced. The Court proceeded in the hearing August 15.
+Vandyke, for plaintiff in error, read the following papers:
+December 11, 1799. Recognizance, Bines, sheriff, Ball, Nivin, and Israel for $16,000 condition that if (in the words of the Act of Assembly, 2 Del.Laws 1130). Venditioni exponas tested December 24, 1800, returnable to May Term, 1801.
+The question is whether the recognizance bound the sureties for the performance of sheriff’s duty after the expiration of his office. Bines went out of office October, 1800. 2 Del.Laws 933 passed October, 1788. This law is not to be extended by equitable construction. The words of the recognizance must bind him expressly. 2 Term 366, Straton v. Rostall, where an annuity bond granted by two becomes void by the neglect of the grantee in not registering a memorial under 17 Geo. III, c. 26, he cannot recover back any part of the consideration money from one who was known to be only a surety for the other, and had not in truth received any part of it, notwithstanding they both joined in signing in receipt for it. 2 Saund. 414, Lord Arlington v. Merrick. 12 Vin.Abr., title “Surety,” pl. 3. Here the surety was answerable for acts done by Bines only while he was sheriff. The writ was not directed to the sheriff. It was to Bines, late sheriff.
+Read for defendant in error. The surety is answerable for acts done as sheriff. Bines performed these duties as sheriff. He was out of office; but a sheriff out of office may perform many acts. He may sell on fieri facias. He may be compelled to sell. Quoad such acts, he is sheriff. The Act of Assembly, 1788, was passed prior to the Act directing the form in which the sheriff shall give security, in 2 Del.Laws 1130. By that Act he had delegated to him a power to act as sheriff, after the common term expired. 4 Co. 1, 4a, Vernon’s Case. An act made of late time shall be taken within the equity of an act made long before.
+Here the Act of 1788 and 1793 are to be taken together. They both relate to the duties of sheriffs; to the security of suitors.
+Bayard for plaintiff in error. The security must be strictly within the letter of the recognizance and not merely within the equity of it. He referred to cases in Term and Saunders, and commented on them pretty largely.
+The Chancellor
+delivered the opinion of the Court. This action was brought on the recognizance entered into by Bines, the Sheriff of New Castle County, together with the plaintiff in error and others, his sureties, on December 11, 1799. This was the last year of Bines’s shrievalty. The writ of venditioni exponas was sued out after he ceased to be sheriff. The writ of fieri facias was taken out in the second year of his term of office. No process was taken out by plaintiff in his last year. The question is whether by the non-performance of the duty of sheriff on process taken out after the office expired for the completion of an execution sued out before these sureties were bound, the sureties of the last year are liable. Or, in other words, whether the sureties of the sheriff are responsible for him, after he ceased to be sheriff, for any non-performance of his duty, in any case in which no writ or other process came into his hands, and no duty accrued, during the year of their recognizance, and no failure happened in that year. Bines was not in office when he sold the land.
+The Court is of the opinion that the recognizance does not enable the plaintiff to recover against David Nivin, the surety. Why are the sureties of the last year responsible, rather than the sureties of the first year? In neither year did any process go into Bines’s hands touching this case. He made no breach of the last recognizance. He had no service to perform, and no duty accrued in that year. We will not undertake to say that there is no remedy. It appears to us, if there could be a remedy, that it would be against the sureties of the second year, when the fieri facias was sued out and delivered to him, which began the process of execution. But this seems to be a casus omissus. There is no express provision made for the case; and we cannot extend the words of the recognizance beyond the actual meaning which the recognizance imports. Therefore we are of opinion that David Nivin, the plaintiff in error, was not liable on this recognizance, and consequently that the judgment must be reversed.
+Judgment reversed unanimously.
+The condition in the Statute reads, “That if he the said Sheriff shall and do well and truly serve and execute all writs and process to him directed without delay, and shall from time to time, upon request to him made for that purpose, well and truly pay or cause to be paid to the several suitors and parties interested therein, their lawful agents, factors, or assigns, and to the several officers, all and every sum and sums of money to them respectively belonging, which shall come to his hands, or which it shall be his duty to collect and receive, and receive, collect and pay over, all public taxes whatsoever committed to him for collection, and shall do from time to time, and at all times during his continuance in office of Sheriff, well and faithfully execute the said office, and perform in every thing the duty in him reposed...”
