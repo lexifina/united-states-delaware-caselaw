@@ -1,0 +1,24 @@
+---
+court: "Delaware Court of Errors and Appeals"
+decided: "1818-06"
+citations: ["2 Del. Cas. 402", "Ridgely’s Notebook II, 96"]
+reporter: "del-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARTHUR A. WELLS and JOHN STUART v. JOHN ROCK."]
+source_url: "https://static.case.law/del-cas/2/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 503414
+---
+
+# Wells v. Rock
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+Ezekiel Britton, the tenant in fee of the land on which the distress was made on the 12th February, 1813, demised the same to Stuart, his executors, administrators or assigns, for a term of eight years from the 25th day of March in the same year, paying a rent of £60 a year, except the first year, for which he was to pay £50 in advance. Before Stuart’s term expired, Britton sold the land in fee to Christopher Vandegrift. On March 11, 1809, Stuart demised the premises to William Giberson for two years from March 25,1809, Giberson paying a rent in certain quantities of Indian corn, oats, and wheat, to be delivered at Augustine, or at any other place not exceeding the distance of Augustine storehouse from the premises, and to be delivered within certain limited periods, upon notice given by Stuart to Giberson of the times of delivery. On March 25,1811, at the expiration of the lease made by Britton to Stuart, the land was delivered to Vandegrift, and he let it to Rock, the defendant in error, and Rock went into the immediate possession of it. On July 12, 1811, Wells, one of the plaintiffs in error, as bailiff of Stuart, distrained on wheat which was sowed on the premises in the Autumn of 1810 and cut in July. This was the way-going crop. On July 15, owing to some mistake in the first distress, a second distress was made. The wheat was standing in stack on the place or field where it had grown, or in the barn-yard, or on some part of the premises demised by Stuart to Giberson, except a small parcel in bags which had been carried into the dwelling-house.
+The question now is whether Rock can support this action of trespass quare clausum fregit. If Stuart had a right to enter on the premises for the purpose of distraining on wheat which was sowed the last year of Giberson’s term, Rock cannot support his action. The whole depends on the right of Stuart to distrain. The Act of Assembly for the better regulating distresses for rent and for other purposes therein mentioned, 2 Del.Laws 1147, s. 13, has been relied on by the plaintiff in error as fully justifying Stuart’s entry and distress. But that Act is no authority for this distress, because Stuart, in his lease to Giberson, parted with his whole estate or interest in the land and reserved no reversion; and consequently had no right at any time to distrain, even for the first year’s rent. I refer to 2 Bac.Abr. 106, title, “Distress,” and to the authorities there cited. It is there said that if a lessor reserve not the reversion, he cannot distrain of common right, but he may reserve to himself a power of distraining; or the reservation may be good to bind the lessee by way of contract, for the performance whereof the lessor shall have an action of debt. There are some cases in which the law gives a remedy by distress without any provision of the parties, although he who has the right to distrain has no reversion: as for rent granted for equality of partition by one parcener to another; so for rent granted to widow out of lands whereof she is dowable, in lieu of her dower; and also for rent granted in lieu of land upon exchange. But the reason of the law in these cases is very different from the case of a lease and no reversion reserved. And it is explicit and clear that if a termor grants all his term rendering rent, he cannot distrain for it. 2 Bac.Abr. 106, Cro.Jac. 487, 2 Lev. 80, Str. 405, 1 Term 441, 2 Wils. 376.
+The Act of Assembly never designed to give a right of distress to one who never had such right. It was designed merely to continue, after a determination of a lease, a right to distrain which previously existed; therefore as Stuart never had a right to distrain on Giberson, the Act gave none and could not preserve or continue what the party never had. If then Stuart had no right to distrain, he certainly had no right to enter the close of Rock, and consequently was a trespasser.
+As to the questions relating to notice and the second distress it is not necessary to decide nor to intimate any opinion concerning them; for if Stuart had no right to distrain, on the grounds mentioned, the two other questions could have no influence in the cause.
+Booth, Chief Justice of the Court of Common Pleas, Warner and Cooper, Justices of the same court, and Paynter, Justice of the Supreme Court, who was not a judge at the time of trial in the court below, concurred.
+Judgment affirmed unanimously.
