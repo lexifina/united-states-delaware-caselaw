@@ -1,0 +1,26 @@
+---
+court: "Delaware Court of Errors and Appeals"
+decided: "1796-10-27"
+citations: ["1 Del. Cas. 405", "Bayard’s Notebook, 152"]
+reporter: "del-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRAZER v. GORDON’S EXECUTORS."]
+source_url: "https://static.case.law/del-cas/1/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 506944
+---
+
+# Frazer v. Gordon's Executors
+
+## Majority (Killen, Chancellor, Read, C. J.,)
+
+On the part of the plaintiff, it was said that the charge of the bonds amounted to £3000, nearly the amount of the plaintiff’s claim. That if the book was evidence, it was so either under the Act of Assembly [1 Del.Laws 328] or at common law. That trader the Act of Assembly a book was evidence only as to goods, wares, and merchandises and other matters properly chargeable in account. .That bonds were certainly not within this description. That at common law the books were not evidence because the best evidence the nature of the case admitted of was required, and therefore a book would be no evidence of a demand by bond. That the entries were not in the handwriting of the testator nor of any clerk who usually kept the books. That on this ground, if the charge properly belonged to a book, the book would not be evidence, 2 Salk. 690. That the bonds being cancelled and in Frazer’s hands did not vary the case, because the presumption was that Frazer had paid them independent of the contract in this case; or otherwise, had they been delivered to him by Gordon, Gordon would have taken receipts. That if the bonds were in Gordon’s hands and cancelled, that would not have been sufficient, as held on a like principle in Sot’s case, Clayt. 112, — upon plene administravit the defendant showed bonds cancelled, which was held not sufficient proof of actual payment. They insisted also that the second exception was fatal. The charge was of cash paid per order and no order shown. The money was paid to a stranger, and the order was the authority on which it.was paid, and the only ground on which it could be charged to the plaintiff, and therefore the book was no evidence without the order.
+Upon the other side it was answered that all evidence had relation and was to be considered in connection with the subject to which it applied. That by the agreement with the plaintiff the testator was to pay the debts which he owed by judgment bond etc. That the first objection went merely to the form of the entry. The testator had paid the bonds and delivered them to the plaintiff, and instead of charging money paid on his account in discharge of the bonds, which would have been regular, he had charged the bonds themselves to meet probably the terms of the agreement. That the copy of the judgments on the bonds proved they once existed and belonged to the testator, either being originally given to him or assigned.
+It was proved that the bonds were in the hands of the plaintiff; and therefore the book," though certainly not evidence alone or in its own nature, might be admitted as ancillary proof, especially as the plaintiff was guarded against any errors it might lead to by the power he had of producing the bonds themselves and showing the manner in which he had paid them. That if the plaintiff had distinctly satisfied the bonds, he had certainly the means of offering some evidence on the subject. The charge was conformable to the nature of the agreement. The testator was to pay those bonds, and it was regular when paid to cancel and deliver them to the plaintiff, making memorandum of the transaction. That if the charge would have been good in any form, the exception ought not to prevail; for, on the principle that a conveyance of one form is allowed to operate in another in order to give it effect, if the charge were susceptible of any shape, it ought to be construed accordingly. That as to the second exception it went too far to be maintained. The exception went to the whole book, though the point of objection was confined to a single entry. That if the book had been rejected, the defendants would have lost the benefit of many entries unquestionably"regular evidence. That as it respected the particular entry, the case was peculiar. That the agreement of the parties was a general order to pay Frazer’s debts and was a sufficient authority for the purpose. That particular orders were there instructions in individual cases. That the exception went only to the credit of the entry, which was rightly admitted to the jury, and that the Supreme Court in New Castle County had so ruled in the case of Jaquett v. Jaquett.
+Curia advisare vidt.
+Killen, Chancellor,
+October 28, pronounced the judgment of the Court that the judgment below should be reversed.
+Read, C. J.,
+observed that the book was no evidence under the Act of Assembly [1 Del.Laws 328], because the articles contained were not properly chargeable in account and that it was not admissible on any principle of common law. That the second exception was also fatal, the Court considering the book no evidence of the payment charged without first showing the order.
+Judgment reversed.
