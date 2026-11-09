@@ -52,3 +52,6 @@ history (nothing is rewritten). Now 7,762 decisions.
 
 Dates in the commit history: git cannot hold dates before 1970, so a decision before 1970 is committed from 1970-01-01 noon UTC-5, a second apart.
 Here 1,649 decisions are before 1970, so 253 of their commits are dated 1970-01-02 or later, 253 of them in or after April 1970 (an append continued an earlier count). The commit date is not the day decided: `git log --since/--until` over 1970 mixes them with the decisions of 1970. Read the `In-force:` trailer (as the window recipe above now does) or use the global-law tools.
+
+## Decisions moved to their own repos (2026-11-09)
+62 decisions were here by a routing mistake (CAP gives them a jurisdiction their court name contradicts, or a court name the router did not read). Each is now in its own repo, and its file here is removed; `decision-relations.tsv` gives each removed path as `moved-to <repo>/<path>`. 62 to united-states-district-of-columbia-caselaw. Now 7,700 decisions.
