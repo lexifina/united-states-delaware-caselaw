@@ -1,5 +1,4 @@
 reference	path
-. 47, 2016	decisions/delaware-supreme-court/2016/137-A-3d-972.md
 00-AA-429	decisions/district-of-columbia-court-of-appeals/2001/785-A-2d-300.md
 00-BG-1372	decisions/district-of-columbia-court-of-appeals/2001/788-A-2d-154--cap-9400176.md
 00-BG-312	decisions/district-of-columbia-court-of-appeals/2001/785-A-2d-318.md
@@ -117,6 +116,7 @@ reference	path
 1 Del. Cas. 128	decisions/delaware-supreme-court/1797/1-Del-Cas-128.md
 1 Del. Cas. 129	decisions/delaware-supreme-court/1797/1-Del-Cas-129.md
 1 Del. Cas. 13	decisions/delaware-supreme-court/1793/1-Del-Cas-13.md
+1 Del. Cas. 13	decisions/delaware-supreme-court/1793/2-Del-Cas-6.md
 1 Del. Cas. 131	decisions/delaware-supreme-court/1797/1-Del-Cas-131.md
 1 Del. Cas. 132	decisions/delaware-supreme-court/1797/1-Del-Cas-132.md
 1 Del. Cas. 133	decisions/delaware-supreme-court/1797/1-Del-Cas-133.md
@@ -128,6 +128,7 @@ reference	path
 1 Del. Cas. 171	decisions/delaware-supreme-court/1798/1-Del-Cas-171.md
 1 Del. Cas. 18	decisions/delaware-supreme-court/1794/1-Del-Cas-18.md
 1 Del. Cas. 19	decisions/delaware-supreme-court/1793/1-Del-Cas-19.md
+1 Del. Cas. 19	decisions/delaware-supreme-court/1793/2-Del-Cas-11.md
 1 Del. Cas. 19	decisions/delaware-supreme-court/1794/1-Del-Cas-19.md
 1 Del. Cas. 208	decisions/delaware-supreme-court/1799/1-Del-Cas-208.md
 1 Del. Cas. 210	decisions/delaware-supreme-court/1799/1-Del-Cas-210.md
@@ -214,6 +215,7 @@ reference	path
 1 Del. Cas. 488	decisions/delaware-supreme-court/1796/1-Del-Cas-488.md
 1 Del. Cas. 5	decisions/delaware-supreme-court/1792/1-Del-Cas-5--cap-506711.md
 1 Del. Cas. 5	decisions/delaware-supreme-court/1792/1-Del-Cas-5.md
+1 Del. Cas. 503	decisions/delaware-supreme-court/1800/1-Del-Cas-259.md
 1 Del. Cas. 503	decisions/delaware-supreme-court/1800/1-Del-Cas-503.md
 1 Del. Cas. 505	decisions/delaware-court-of-errors-and-appeals/1811/1-Del-Cas-505.md
 1 Del. Cas. 505	decisions/delaware-supreme-court/1805/1-Del-Cas-505.md
@@ -279,6 +281,7 @@ reference	path
 1 Del. Cas. 94	decisions/delaware-supreme-court/1796/1-Del-Cas-94.md
 1 Del. Cas. 95	decisions/delaware-supreme-court/1796/1-Del-Cas-95.md
 1 Del. Cas. 96	decisions/delaware-court-of-errors-and-appeals/1796/1-Del-Cas-96.md
+1 Del. Ch. 465	decisions/delaware-court-of-errors-and-appeals/1821/1-Del-Ch-465.md
 1 Harr. 182	decisions/delaware-court-of-errors-and-appeals/1833/1-Del-182.md
 1 Harr. 186	decisions/delaware-court-of-errors-and-appeals/1833/1-Del-186.md
 1 Harr. 190	decisions/delaware-court-of-errors-and-appeals/1833/1-Del-190.md
@@ -3319,6 +3322,7 @@ reference	path
 2 Del. Cas. 668	decisions/delaware-court-of-errors-and-appeals/1821/2-Del-Cas-668.md
 2 Del. Cas. 669	decisions/delaware-court-of-errors-and-appeals/1821/2-Del-Cas-669.md
 2 Del. Cas. 673	decisions/delaware-court-of-errors-and-appeals/1821/2-Del-Cas-673.md
+2 Del. Ch. 421	decisions/delaware-court-of-errors-and-appeals/1848/2-Del-Ch-421.md
 2 Harr. 225	decisions/delaware-court-of-errors-and-appeals/1837/2-Del-225.md
 2 Harr. 235	decisions/delaware-court-of-errors-and-appeals/1837/2-Del-235.md
 2 Harr. 401	decisions/delaware-court-of-errors-and-appeals/1838/2-Del-401.md
@@ -3860,28 +3864,46 @@ reference	path
 214, 2018	decisions/delaware-supreme-court/2018/194-A-3d-30--cap-12501392.md
 214,2005	decisions/delaware-supreme-court/2005/888-A-2d-225.md
 215	decisions/delaware-supreme-court/1933/35-Del-514.md
+215 A.2d 247	decisions/delaware-supreme-court/1965/59-Del-130.md
+215 A.2d 427	decisions/delaware-supreme-court/1965/59-Del-135.md
+215 A.2d 427	decisions/delaware-supreme-court/1965/59-Del-145.md
+215 A.2d 433	decisions/delaware-supreme-court/1965/59-Del-146.md
+215 A.2d 434	decisions/delaware-supreme-court/1965/59-Del-148.md
+215 A.2d 457	decisions/delaware-supreme-court/1965/59-Del-174.md
 215 A.2d 924	decisions/delaware-supreme-court/1965/215-A-2d-924.md
 215, 1994	decisions/delaware-supreme-court/1995/652-A-2d-574.md
 215, 2006	decisions/delaware-supreme-court/2007/930-A-2d-890.md
 215, 2016	decisions/delaware-supreme-court/2016/151-A-3d-448--cap-12141069.md
 215, 2017	decisions/delaware-supreme-court/2018/180-A-3d-41--cap-12493407.md
 215, 2018	decisions/delaware-supreme-court/2018/186-A-3d-799--cap-12497382.md
+216 A.2d 146	decisions/delaware-supreme-court/1965/59-Del-175.md
+216 A.2d 281	decisions/delaware-supreme-court/1966/59-Del-179.md
+216 A.2d 420	decisions/delaware-supreme-court/1966/59-Del-187.md
 216 A.2d 666	decisions/delaware-supreme-court/1966/216-A-2d-666.md
 216 A.2d 668	decisions/delaware-supreme-court/1966/216-A-2d-668.md
+216 A.2d 672	decisions/delaware-supreme-court/1966/59-Del-202.md
+216 A.2d 674	decisions/delaware-supreme-court/1966/59-Del-206.md
+216 A.2d 689	decisions/delaware-supreme-court/1966/59-Del-220.md
 216 A.2d 870	decisions/delaware-supreme-court/1966/216-A-2d-870.md
+216 A.2d 874	decisions/delaware-supreme-court/1966/59-Del-226.md
 216, 1999	decisions/delaware-supreme-court/2000/750-A-2d-518.md
 216, 2015	decisions/delaware-supreme-court/2015/127-A-3d-397--cap-6833932.md
 216, 2016	decisions/delaware-supreme-court/2016/150-A-3d-1209--cap-12199088.md
 216, 2017	decisions/delaware-supreme-court/2017/170-A-3d-777--cap-12325349.md
 216, 2018	decisions/delaware-supreme-court/2018/201-A-3d-523--cap-12506121.md
 216,2003	decisions/delaware-supreme-court/2004/844-A-2d-301.md
+217 A.2d 197	decisions/delaware-supreme-court/1966/59-Del-235.md
+217 A.2d 496	decisions/delaware-supreme-court/1966/59-Del-238.md
+217 A.2d 497	decisions/delaware-supreme-court/1966/59-Del-240.md
 217 A.2d 683	decisions/delaware-supreme-court/1966/217-A-2d-683.md
+217 A.2d 688	decisions/delaware-supreme-court/1966/59-Del-247.md
 217, 1996	decisions/delaware-supreme-court/1996/683-A-2d-1046.md
 217, 2005	decisions/delaware-supreme-court/2006/897-A-2d-159.md
 217, 2015	decisions/delaware-supreme-court/2015/124-A-3d-32--cap-6838824.md
 217, 2016	decisions/delaware-supreme-court/2016/150-A-3d-776--cap-12193537.md
 217, 2017	decisions/delaware-supreme-court/2017/167-A-3d-1188.md
 217, 2018	decisions/delaware-supreme-court/2019/207-A-3d-1124--cap-12508863.md
+218 A.2d 670	decisions/delaware-supreme-court/1966/59-Del-257.md
 218, 2000	decisions/delaware-supreme-court/2001/781-A-2d-687.md
 218, 2005	decisions/delaware-supreme-court/2006/906-A-2d-766.md
 218, 2010	decisions/delaware-supreme-court/2011/36-A-3d-756.md
@@ -3889,6 +3911,10 @@ reference	path
 218, 2016	decisions/delaware-supreme-court/2017/159-A-3d-1206--cap-12333718.md
 218, 2017	decisions/delaware-supreme-court/2017/177-A-3d-612--cap-12350904.md
 219 A.2d 148	decisions/delaware-supreme-court/1966/219-A-2d-148.md
+219 A.2d 153	decisions/delaware-supreme-court/1966/59-Del-287.md
+219 A.2d 155	decisions/delaware-supreme-court/1966/59-Del-291.md
+219 A.2d 158	decisions/delaware-supreme-court/1966/59-Del-295.md
+219 A.2d 258	decisions/delaware-supreme-court/1966/59-Del-298.md
 219 A.2d 576	decisions/delaware-supreme-court/1966/219-A-2d-576.md
 219 A.2d 579	decisions/delaware-supreme-court/1966/219-A-2d-579.md
 219, 2002	decisions/delaware-supreme-court/2003/817-A-2d-777.md
@@ -7554,8 +7580,41 @@ reference	path
 43 Del. 516	decisions/delaware-supreme-court/1947/43-Del-516.md
 43 Del. 540	decisions/delaware-supreme-court/1947/43-Del-540.md
 43 Del. 553	decisions/delaware-supreme-court/1947/43-Del-553.md
+43 Del. Ch. 124	decisions/delaware-supreme-court/1966/219-A-2d-576.md
+43 Del. Ch. 129	decisions/delaware-supreme-court/1966/219-A-2d-579.md
+43 Del. Ch. 148	decisions/delaware-supreme-court/1966/221-A-2d-487.md
+43 Del. Ch. 160	decisions/delaware-supreme-court/1966/221-A-2d-494.md
+43 Del. Ch. 196	decisions/delaware-supreme-court/1966/222-A-2d-555.md
 43 Del. Ch. 206	decisions/delaware-supreme-court/1966/43-Del-Ch-206.md
+43 Del. Ch. 222	decisions/delaware-supreme-court/1966/222-A-2d-800.md
+43 Del. Ch. 236	decisions/delaware-supreme-court/1966/223-A-2d-81.md
+43 Del. Ch. 239	decisions/delaware-supreme-court/1966/223-A-2d-338.md
+43 Del. Ch. 252	decisions/delaware-supreme-court/1966/223-A-2d-384.md
+43 Del. Ch. 262	decisions/delaware-supreme-court/1966/224-A-2d-242.md
+43 Del. Ch. 276	decisions/delaware-supreme-court/1966/224-A-2d-250.md
+43 Del. Ch. 283	decisions/delaware-supreme-court/1966/224-A-2d-260.md
+43 Del. Ch. 292	decisions/delaware-supreme-court/1966/224-A-2d-400.md
+43 Del. Ch. 303	decisions/delaware-supreme-court/1967/226-A-2d-122.md
 43 Del. Ch. 323	decisions/delaware-supreme-court/1966/43-Del-Ch-323.md
+43 Del. Ch. 331	decisions/delaware-supreme-court/1967/229-A-2d-495.md
+43 Del. Ch. 334	decisions/delaware-supreme-court/1967/229-A-2d-784.md
+43 Del. Ch. 388	decisions/delaware-supreme-court/1967/232-A-2d-101.md
+43 Del. Ch. 391	decisions/delaware-supreme-court/1967/233-A-2d-63.md
+43 Del. Ch. 394	decisions/delaware-supreme-court/1967/233-A-2d-170.md
+43 Del. Ch. 420	decisions/delaware-supreme-court/1967/234-A-2d-444.md
+43 Del. Ch. 425	decisions/delaware-supreme-court/1967/235-A-2d-268.md
+43 Del. Ch. 436	decisions/delaware-supreme-court/1967/235-A-2d-835.md
+43 Del. Ch. 452	decisions/delaware-supreme-court/1967/236-A-2d-369.md
+43 Del. Ch. 461	decisions/delaware-supreme-court/1967/236-A-2d-425.md
+43 Del. Ch. 477	decisions/delaware-supreme-court/1967/237-A-2d-393.md
+43 Del. Ch. 478	decisions/delaware-supreme-court/1968/238-A-2d-326.md
+43 Del. Ch. 485	decisions/delaware-supreme-court/1967/238-A-2d-331.md
+43 Del. Ch. 502	decisions/delaware-supreme-court/1968/238-A-2d-836.md
+43 Del. Ch. 512	decisions/delaware-supreme-court/1968/239-A-2d-227.md
+43 Del. Ch. 516	decisions/delaware-supreme-court/1968/239-A-2d-629.md
+43 Del. Ch. 526	decisions/delaware-supreme-court/1968/240-A-2d-138.md
+43 Del. Ch. 531	decisions/delaware-supreme-court/1968/240-A-2d-755.md
+43 Del. Ch. 534	decisions/delaware-supreme-court/1968/240-A-2d-757.md
 43, 1957	decisions/delaware-supreme-court/1958/51-Del-264.md
 43, 1965	decisions/delaware-supreme-court/1965/59-Del-83.md
 43, 1994	decisions/delaware-supreme-court/1995/654-A-2d-833.md
@@ -8137,6 +8196,7 @@ reference	path
 47, 1960	decisions/delaware-supreme-court/1961/53-Del-284.md
 47, 2010	decisions/delaware-supreme-court/2011/15-A-3d-1225.md
 47, 2015	decisions/delaware-supreme-court/2015/129-A-3d-883--cap-6768498.md
+47, 2016	decisions/delaware-supreme-court/2016/137-A-3d-972.md
 47, 2017	decisions/delaware-supreme-court/2017/177-A-3d-610--cap-12350803.md
 47, 2018	decisions/delaware-supreme-court/2018/194-A-3d-908--cap-12501996.md
 47,2004	decisions/delaware-supreme-court/2004/849-A-2d-33.md
@@ -9033,7 +9093,6 @@ reference	path
 525 A.2d 992	decisions/delaware-supreme-court/1987/525-A-2d-992.md
 525, 1996	decisions/delaware-supreme-court/1997/695-A-2d-1124.md
 525, 2015	decisions/delaware-supreme-court/2016/140-A-3d-1124.md
-525, 2016; No. 526, 2016; No. 527, 2016; No. 528, 2016; No. 529, 2016; No. 530, 2016	decisions/delaware-supreme-court/2018/183-A-3d-1245--cap-12495605.md
 525, 2017	decisions/delaware-supreme-court/2018/179-A-3d-275.md
 525, 2018	decisions/delaware-supreme-court/2019/210-A-3d-725.md
 526 A.2d 1353	decisions/delaware-supreme-court/1987/526-A-2d-1353.md
@@ -12650,6 +12709,7 @@ Clayton’s Notebook, 183	decisions/delaware-court-of-errors-and-appeals/1814/1-
 Clayton’s Notebook, 184	decisions/delaware-court-of-errors-and-appeals/1814/1-Del-Cas-640.md
 Clayton’s Notebook, 184	decisions/delaware-court-of-errors-and-appeals/1814/1-Del-Cas-641.md
 Clayton’s Notebook, 184; Clayton’s Notebook, 185	decisions/delaware-court-of-errors-and-appeals/1814/1-Del-Cas-642.md
+Clayton’s Notebook, 24	decisions/delaware-supreme-court/1800/1-Del-Cas-259.md
 Clayton’s Notebook, 24	decisions/delaware-supreme-court/1800/1-Del-Cas-503.md
 Clayton’s Notebook, 26	decisions/delaware-court-of-errors-and-appeals/1811/1-Del-Cas-505.md
 Clayton’s Notebook, 26	decisions/delaware-supreme-court/1805/1-Del-Cas-505.md
@@ -12674,7 +12734,6 @@ Clayton’s Notebook, 77	decisions/delaware-supreme-court/1818/1-Del-Cas-573.md
 Clayton’s Notebook, 79	decisions/delaware-supreme-court/1818/1-Del-Cas-576.md
 Clayton’s Notebook, 81	decisions/delaware-supreme-court/1817/1-Del-Cas-579.md
 Consol. Nos. 521, 2016 and 543, 2016	decisions/delaware-supreme-court/2017/170-A-3d-147.md
-Cr.A. No. IN96-10-1379, IN96-10-1380, IN96-10-1381, IN96-10-1382, IN96-10-1383, IN96-10-0043	decisions/delaware-supreme-court/1997/715-A-2d-855.md
 Error No. 11	decisions/delaware-supreme-court/1918/30-Del-168.md
 F6639-93, F8662-93	decisions/district-of-columbia-court-of-appeals/2003/824-A-2d-40.md
 Mandamus, No. 31, 1954	decisions/delaware-supreme-court/1955/49-Del-143.md
@@ -12765,7 +12824,6 @@ Rodney’s Notes	decisions/delaware-supreme-court/1796/2-Del-Cas-65.md
 Rodney’s Notes	decisions/delaware-supreme-court/1802/2-Del-Cas-165.md
 Rodney’s Notes	decisions/delaware-supreme-court/1802/2-Del-Cas-168.md
 Rodney’s Notes	decisions/delaware-supreme-court/1805/2-Del-Cas-231.md
-Supreme Court of Delaware	decisions/delaware-supreme-court/1973/314-A-2d-171.md
 Wells’ Notebook, 348	decisions/delaware-supreme-court/1807/2-Del-Cas-17.md
 Wells’ Notebook, 353	decisions/delaware-supreme-court/1807/2-Del-Cas-20.md
 Wells’ Notebook, 354	decisions/delaware-supreme-court/1807/2-Del-Cas-21.md
@@ -12790,6 +12848,7 @@ Wilson’s Red Book, 13	decisions/delaware-supreme-court/1794/1-Del-Cas-18.md
 Wilson’s Red Book, 135	decisions/delaware-supreme-court/1796/1-Del-Cas-109.md
 Wilson’s Red Book, 138	decisions/delaware-supreme-court/1796/1-Del-Cas-112.md
 Wilson’s Red Book, 14	decisions/delaware-supreme-court/1793/1-Del-Cas-19.md
+Wilson’s Red Book, 14	decisions/delaware-supreme-court/1793/2-Del-Cas-11.md
 Wilson’s Red Book, 14	decisions/delaware-supreme-court/1794/1-Del-Cas-19.md
 Wilson’s Red Book, 141	decisions/delaware-supreme-court/1797/1-Del-Cas-115.md
 Wilson’s Red Book, 147	decisions/delaware-supreme-court/1796/1-Del-Cas-122.md
@@ -12843,6 +12902,7 @@ Wilson’s Red Book, 7	decisions/delaware-supreme-court/1793/1-Del-Cas-12.md
 Wilson’s Red Book, 76	decisions/delaware-supreme-court/1795/1-Del-Cas-71.md
 Wilson’s Red Book, 77	decisions/delaware-supreme-court/1795/1-Del-Cas-72.md
 Wilson’s Red Book, 8	decisions/delaware-supreme-court/1793/1-Del-Cas-13.md
+Wilson’s Red Book, 8	decisions/delaware-supreme-court/1793/2-Del-Cas-6.md
 Wilson’s Red Book, 80	decisions/delaware-supreme-court/1795/1-Del-Cas-74.md
 Writ of Error to the Court of General Sessions for New Castle County No. 18	decisions/delaware-supreme-court/1901/18-Del-586.md
 Writ of Error to the Superior Court for New Castle County No. 4	decisions/delaware-supreme-court/1899/18-Del-210.md
@@ -14230,6 +14290,7 @@ cap-12489250	decisions/delaware-supreme-court/2017/155-A-3d-833--cap-12489250.md
 cap-12489251	decisions/delaware-supreme-court/2017/155-A-3d-834--cap-12489251.md
 cap-12489252	decisions/delaware-supreme-court/2017/155-A-3d-834.md
 cap-12490940	decisions/delaware-supreme-court/2017/170-A-3d-147--cap-12490940.md
+cap-12491113	decisions/delaware-supreme-court/2017/173-A-3d-1012.md
 cap-12492659	decisions/delaware-supreme-court/2018/179-A-3d-275.md
 cap-12492660	decisions/delaware-supreme-court/2018/179-A-3d-275--cap-12492660.md
 cap-12492661	decisions/delaware-supreme-court/2018/179-A-3d-275--cap-12492661.md
@@ -15780,6 +15841,8 @@ cap-455428	decisions/delaware-supreme-court/1957/50-Del-510.md
 cap-455429	decisions/delaware-supreme-court/1956/50-Del-83.md
 cap-455435	decisions/delaware-supreme-court/1957/50-Del-394.md
 cap-455437	decisions/delaware-supreme-court/1957/50-Del-479.md
+cap-456904	decisions/delaware-court-of-errors-and-appeals/1848/2-Del-Ch-421.md
+cap-457816	decisions/delaware-court-of-errors-and-appeals/1821/1-Del-Ch-465.md
 cap-458114	decisions/delaware-supreme-court/1965/59-Del-35.md
 cap-458115	decisions/delaware-supreme-court/1965/59-Del-175.md
 cap-458116	decisions/delaware-supreme-court/1966/59-Del-187.md
@@ -16054,6 +16117,7 @@ cap-506504	decisions/delaware-supreme-court/1825/1-Del-Cas-621.md
 cap-506505	decisions/delaware-court-of-errors-and-appeals/1818/1-Del-Cas-561.md
 cap-506509	decisions/delaware-court-of-errors-and-appeals/1818/1-Del-Cas-565.md
 cap-506510	decisions/delaware-supreme-court/1793/1-Del-Cas-19.md
+cap-506510	decisions/delaware-supreme-court/1793/2-Del-Cas-11.md
 cap-506511	decisions/delaware-supreme-court/1797/1-Del-Cas-150.md
 cap-506512	decisions/delaware-supreme-court/1794/1-Del-Cas-350.md
 cap-506514	decisions/delaware-court-of-errors-and-appeals/1814/1-Del-Cas-639.md
@@ -16072,7 +16136,9 @@ cap-506532	decisions/delaware-supreme-court/1797/1-Del-Cas-158.md
 cap-506533	decisions/delaware-supreme-court/1793/1-Del-Cas-326.md
 cap-506535	decisions/delaware-supreme-court/1795/1-Del-Cas-375.md
 cap-506542	decisions/delaware-supreme-court/1793/1-Del-Cas-13.md
+cap-506542	decisions/delaware-supreme-court/1793/2-Del-Cas-6.md
 cap-506543	decisions/delaware-supreme-court/1794/1-Del-Cas-359.md
+cap-506544	decisions/delaware-supreme-court/1800/1-Del-Cas-259.md
 cap-506544	decisions/delaware-supreme-court/1800/1-Del-Cas-503.md
 cap-506545	decisions/delaware-supreme-court/1793/1-Del-Cas-343.md
 cap-506547	decisions/delaware-court-of-errors-and-appeals/1819/1-Del-Cas-607.md
@@ -16214,8 +16280,41 @@ cap-506944	decisions/delaware-court-of-errors-and-appeals/1796/1-Del-Cas-405.md
 cap-506945	decisions/delaware-supreme-court/1792/1-Del-Cas-6--cap-506945.md
 cap-506949	decisions/delaware-supreme-court/1796/1-Del-Cas-409.md
 cap-506951	decisions/delaware-court-of-errors-and-appeals/1814/1-Del-Cas-640--cap-506951.md
+cap-509875	decisions/delaware-supreme-court/1967/235-A-2d-835.md
+cap-509876	decisions/delaware-supreme-court/1967/234-A-2d-444.md
+cap-509877	decisions/delaware-supreme-court/1967/232-A-2d-101.md
+cap-509878	decisions/delaware-supreme-court/1968/240-A-2d-755.md
+cap-509879	decisions/delaware-supreme-court/1966/224-A-2d-260.md
+cap-509880	decisions/delaware-supreme-court/1967/238-A-2d-331.md
+cap-509882	decisions/delaware-supreme-court/1968/240-A-2d-138.md
+cap-509884	decisions/delaware-supreme-court/1967/236-A-2d-425.md
+cap-509885	decisions/delaware-supreme-court/1966/222-A-2d-555.md
+cap-509886	decisions/delaware-supreme-court/1967/235-A-2d-268.md
+cap-509887	decisions/delaware-supreme-court/1968/239-A-2d-629.md
+cap-509889	decisions/delaware-supreme-court/1967/233-A-2d-170.md
+cap-509890	decisions/delaware-supreme-court/1966/223-A-2d-384.md
+cap-509892	decisions/delaware-supreme-court/1966/224-A-2d-250.md
+cap-509895	decisions/delaware-supreme-court/1966/221-A-2d-494.md
 cap-509896	decisions/delaware-supreme-court/1966/43-Del-Ch-323.md
+cap-509897	decisions/delaware-supreme-court/1966/219-A-2d-576.md
+cap-509898	decisions/delaware-supreme-court/1967/226-A-2d-122.md
+cap-509899	decisions/delaware-supreme-court/1966/223-A-2d-338.md
+cap-509900	decisions/delaware-supreme-court/1968/238-A-2d-326.md
+cap-509902	decisions/delaware-supreme-court/1966/222-A-2d-800.md
+cap-509903	decisions/delaware-supreme-court/1966/224-A-2d-242.md
 cap-509906	decisions/delaware-supreme-court/1966/43-Del-Ch-206.md
+cap-509907	decisions/delaware-supreme-court/1967/229-A-2d-495.md
+cap-509908	decisions/delaware-supreme-court/1967/237-A-2d-393.md
+cap-509910	decisions/delaware-supreme-court/1968/238-A-2d-836.md
+cap-509911	decisions/delaware-supreme-court/1968/239-A-2d-227.md
+cap-509914	decisions/delaware-supreme-court/1968/240-A-2d-757.md
+cap-509921	decisions/delaware-supreme-court/1967/236-A-2d-369.md
+cap-509923	decisions/delaware-supreme-court/1967/229-A-2d-784.md
+cap-509924	decisions/delaware-supreme-court/1967/233-A-2d-63.md
+cap-509925	decisions/delaware-supreme-court/1966/219-A-2d-579.md
+cap-509927	decisions/delaware-supreme-court/1966/221-A-2d-487.md
+cap-509929	decisions/delaware-supreme-court/1966/224-A-2d-400.md
+cap-509930	decisions/delaware-supreme-court/1966/223-A-2d-81.md
 cap-581122	decisions/delaware-court-of-errors-and-appeals/1788/4-U-S-409.md
 cap-581149	decisions/delaware-court-of-errors-and-appeals/1788/4-U-S-418.md
 cap-63043	decisions/delaware-court-of-errors-and-appeals/1885/12-Del-182.md
@@ -17356,6 +17455,7 @@ cap-7295282	decisions/delaware-supreme-court/2009/975-A-2d-780.md
 cap-7295334	decisions/delaware-supreme-court/2009/975-A-2d-786.md
 cap-7295374	decisions/delaware-supreme-court/2009/975-A-2d-791.md
 cap-7295449	decisions/delaware-supreme-court/2009/977-A-2d-797.md
+cap-7295474	decisions/delaware-supreme-court/2009/987-A-2d-413.md
 cap-7295488	decisions/delaware-supreme-court/2009/977-A-2d-800.md
 cap-7295516	decisions/delaware-supreme-court/2009/975-A-2d-813.md
 cap-7295629	decisions/delaware-supreme-court/2009/977-A-2d-803.md
@@ -19743,30 +19843,44 @@ cap-8093310	decisions/delaware-supreme-court/1969/254-A-2d-849.md
 cap-8093367	decisions/delaware-supreme-court/1969/254-A-2d-852.md
 cap-8093368	decisions/delaware-supreme-court/1967/227-A-2d-576.md
 cap-8093586	decisions/delaware-supreme-court/1969/255-A-2d-884.md
+cap-8093738	decisions/delaware-supreme-court/1965/59-Del-130.md
 cap-8093807	decisions/delaware-supreme-court/1969/259-A-2d-756.md
 cap-8093993	decisions/delaware-supreme-court/1968/246-A-2d-921.md
 cap-8094058	decisions/delaware-supreme-court/1968/246-A-2d-923.md
 cap-8094116	decisions/delaware-supreme-court/1968/246-A-2d-926.md
+cap-8094519	decisions/delaware-supreme-court/1965/59-Del-175.md
 cap-8095765	decisions/delaware-supreme-court/1969/260-A-2d-906.md
+cap-8095772	decisions/delaware-supreme-court/1966/59-Del-235.md
 cap-8095823	decisions/delaware-supreme-court/1969/260-A-2d-907.md
 cap-8096000	decisions/delaware-supreme-court/1969/258-A-2d-905.md
 cap-8096184	decisions/delaware-supreme-court/1969/249-A-2d-863.md
 cap-8096250	decisions/delaware-supreme-court/1969/249-A-2d-866.md
 cap-8096261	decisions/delaware-supreme-court/1966/219-A-2d-148.md
 cap-8096303	decisions/delaware-supreme-court/1968/249-A-2d-869.md
+cap-8096317	decisions/delaware-supreme-court/1966/59-Del-287.md
+cap-8096334	decisions/delaware-supreme-court/1966/59-Del-179.md
+cap-8096380	decisions/delaware-supreme-court/1966/59-Del-291.md
+cap-8096430	decisions/delaware-supreme-court/1966/59-Del-295.md
 cap-8096639	decisions/delaware-supreme-court/1967/229-A-2d-784.md
 cap-8096683	decisions/delaware-supreme-court/1967/229-A-2d-789.md
 cap-8096815	decisions/delaware-supreme-court/1966/224-A-2d-52.md
+cap-8096874	decisions/delaware-supreme-court/1965/59-Del-145.md
+cap-8096949	decisions/delaware-supreme-court/1965/59-Del-135.md
+cap-8096997	decisions/delaware-supreme-court/1965/59-Del-146.md
+cap-8097063	decisions/delaware-supreme-court/1965/59-Del-148.md
+cap-8097216	decisions/delaware-supreme-court/1965/59-Del-174.md
 cap-8097232	decisions/delaware-supreme-court/1967/229-A-2d-832.md
 cap-8097285	decisions/delaware-supreme-court/1967/229-A-2d-833.md
 cap-8097353	decisions/delaware-supreme-court/1967/229-A-2d-837.md
 cap-8097398	decisions/delaware-supreme-court/1967/229-A-2d-839.md
 cap-8097625	decisions/delaware-supreme-court/1970/266-A-2d-878.md
+cap-8097653	decisions/delaware-supreme-court/1966/59-Del-298.md
 cap-8097676	decisions/delaware-supreme-court/1970/266-A-2d-879.md
 cap-8097684	decisions/delaware-supreme-court/1967/226-A-2d-705.md
 cap-8097710	decisions/delaware-supreme-court/1967/234-A-2d-910.md
 cap-8097716	decisions/delaware-supreme-court/1970/266-A-2d-881.md
 cap-8097752	decisions/delaware-supreme-court/1967/226-A-2d-708.md
+cap-8097891	decisions/delaware-supreme-court/1966/59-Del-187.md
 cap-8098328	decisions/delaware-supreme-court/1967/231-A-2d-458.md
 cap-8098468	decisions/delaware-supreme-court/1967/231-A-2d-469.md
 cap-8098518	decisions/delaware-supreme-court/1967/231-A-2d-470.md
@@ -19779,18 +19893,25 @@ cap-8099098	decisions/delaware-supreme-court/1967/226-A-2d-823.md
 cap-8099117	decisions/delaware-supreme-court/1967/226-A-2d-824.md
 cap-8099158	decisions/delaware-supreme-court/1967/226-A-2d-825.md
 cap-8099202	decisions/delaware-supreme-court/1967/226-A-2d-828.md
+cap-8099445	decisions/delaware-supreme-court/1966/59-Del-238.md
+cap-8099505	decisions/delaware-supreme-court/1966/59-Del-240.md
 cap-8099749	decisions/delaware-supreme-court/1966/223-A-2d-81.md
 cap-8100107	decisions/delaware-supreme-court/1967/226-A-2d-910.md
 cap-8100237	decisions/delaware-supreme-court/1967/226-A-2d-925.md
 cap-8100486	decisions/delaware-supreme-court/1966/216-A-2d-666.md
 cap-8100515	decisions/delaware-supreme-court/1966/216-A-2d-668.md
+cap-8100547	decisions/delaware-supreme-court/1966/59-Del-202.md
+cap-8100592	decisions/delaware-supreme-court/1966/59-Del-206.md
+cap-8100680	decisions/delaware-supreme-court/1966/59-Del-220.md
 cap-8100774	decisions/delaware-supreme-court/1966/225-A-2d-481.md
 cap-8100841	decisions/delaware-supreme-court/1966/225-A-2d-490.md
 cap-8100851	decisions/delaware-supreme-court/1966/217-A-2d-683.md
 cap-8100877	decisions/delaware-supreme-court/1966/225-A-2d-491.md
+cap-8100896	decisions/delaware-supreme-court/1966/59-Del-247.md
 cap-8100952	decisions/delaware-supreme-court/1966/220-A-2d-778.md
 cap-8101305	decisions/delaware-supreme-court/1966/222-A-2d-261.md
 cap-8101348	decisions/delaware-supreme-court/1966/222-A-2d-263.md
+cap-8101382	decisions/delaware-supreme-court/1966/59-Del-257.md
 cap-8101389	decisions/delaware-supreme-court/1966/222-A-2d-269.md
 cap-8101444	decisions/delaware-supreme-court/1966/221-A-2d-480.md
 cap-8101493	decisions/delaware-supreme-court/1966/221-A-2d-487.md
@@ -19801,6 +19922,7 @@ cap-8101635	decisions/delaware-supreme-court/1966/221-A-2d-510.md
 cap-8101676	decisions/delaware-supreme-court/1966/222-A-2d-326.md
 cap-8101736	decisions/delaware-supreme-court/1965/215-A-2d-924.md
 cap-8101922	decisions/delaware-supreme-court/1966/216-A-2d-870.md
+cap-8101943	decisions/delaware-supreme-court/1966/59-Del-226.md
 cap-8101985	decisions/delaware-supreme-court/1966/224-A-2d-396.md
 cap-8102011	decisions/delaware-supreme-court/1966/224-A-2d-400.md
 cap-8102153	decisions/delaware-supreme-court/1971/274-A-2d-137.md
@@ -20396,6 +20518,7 @@ cap-9165050	decisions/delaware-supreme-court/2004/859-A-2d-1008.md
 cap-9179467	decisions/delaware-supreme-court/2005/868-A-2d-821.md
 cap-9179520	decisions/delaware-supreme-court/2005/868-A-2d-825.md
 cap-9179563	decisions/delaware-supreme-court/2005/868-A-2d-832.md
+cap-9179581	decisions/delaware-supreme-court/2005/953-A-2d-699.md
 cap-9192371	decisions/delaware-supreme-court/2004/861-A-2d-1233.md
 cap-9192420	decisions/delaware-supreme-court/2004/861-A-2d-1238.md
 cap-9192442	decisions/delaware-supreme-court/2004/861-A-2d-1245.md
