@@ -1,4 +1,6 @@
 path	relation	target	note
+decisions/delaware-supreme-court/1793/2-Del-Cas-11.md	same-decision-as	decisions/delaware-supreme-court/1793/1-Del-Cas-19.md	the same decision in another reporter (2 Del. Cas. 11 and 1 Del. Cas. 19), same day and text (similarity 0.92); both kept
+decisions/delaware-supreme-court/1984/503-A-2d-1210.md	same-decision-as	decisions/delaware-supreme-court/1984/490-A-2d-158.md	the same decision in another reporter (503 A.2d 1210 and 490 A.2d 158), same day and text (similarity 0.46, text contained 0.94); both kept
 decisions/district-of-columbia-court-of-appeals/1969/249-A-2d-740.md	moved-to	district-of-columbia/decisions/district-of-columbia-court-of-appeals/1969/249-A-2d-740.md	the fixed router sends CAP 8088166 to district-of-columbia
 decisions/district-of-columbia-court-of-appeals/1973/301-A-2d-217.md	moved-to	district-of-columbia/decisions/district-of-columbia-court-of-appeals/1973/301-A-2d-217.md	the fixed router sends CAP 8049432 to district-of-columbia
 decisions/district-of-columbia-court-of-appeals/1973/301-A-2d-218.md	moved-to	district-of-columbia/decisions/district-of-columbia-court-of-appeals/1973/301-A-2d-218.md	the fixed router sends CAP 8049465 to district-of-columbia
